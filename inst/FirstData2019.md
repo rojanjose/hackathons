@@ -34,10 +34,11 @@ Select the service from the catalog:
 ![Select a service or tool](images/catalog-selection.png)
 
 Click on create to provision:
+
 ![Provision service](images/provision-service.png)
 
 
-**While listing**
+**White listing**
 This link provides you instructions to whitelist by region.
 https://cloud.ibm.com/registration/whitelist#
 
